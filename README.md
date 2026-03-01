@@ -8,7 +8,7 @@ Sharing MATLAB code and data for reproducing results and facilitating review.
 ## Repository Structure
 
 * **`SIPump.m`**: MATLAB simulation code for online discovery of the RSR framework.
-  * **`SIData.mat`**: Sequential simulation data to accompany `SIPump.m`.
+* **`SIData.mat`**: Sequential simulation data to accompany `SIPump.m`.
 
 ## FUSION Conference
 
