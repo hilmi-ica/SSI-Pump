@@ -1,5 +1,5 @@
-# Online Sparse Identification for Subsea Seawater Injection Systems
-This repository contains simulations for subsea system for online model discovery using recursive sparse regression (RSR) algorithm, supporting our submission to the International Conference on Information Fusion.
+# Online Sparse Identification for Subsea Systems
+This repository contains simulations for subsea water injection system for online model discovery using recursive sparse regression (RSR) algorithm, supporting our submission to the International Conference on Information Fusion.
 
 ## Purpose
 
